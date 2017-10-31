@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "A2 Z: An Improvised Podcast"
+title: "A2Z: An Improvised Podcast"
 email: ritmehta@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Everything we do here is made up. Subscribe for fun! New episodes every Thursday.
-baseurl: "/podcast" # the subpath of your site, e.g. /blog
-url: "http://umich.edu/~mbimprov" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/~mbimprov/podcast" # the subpath of your site, e.g. /blog
+url: "http://umich.edu" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  mehtaritam
+# github_username:  mehtaritam
 
 # Build settings
 markdown: kramdown
